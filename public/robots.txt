@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://Bouregba-Slah.github.io/sitemap.xml
