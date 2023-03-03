@@ -27,5 +27,5 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          snap install hugo
+          sudo snap install hugo
           hugo -D
