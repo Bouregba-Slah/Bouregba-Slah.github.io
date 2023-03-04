@@ -25,5 +25,4 @@ jobs:
       - name: snap install hugo
         run: |
           sudo snap install hugo
-          pwd
-          ls
+          hugo server -D
