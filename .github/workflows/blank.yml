@@ -23,9 +23,6 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: snap install hugo
-        run: 
+        run: |
           sudo snap install hugo
-          
-      - name: hugo -D
-        run: 
           hugo -D
